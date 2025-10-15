@@ -19,3 +19,5 @@ SLIKA TIMER2
 SLIKA ADC KUNFIGURACIJE
 ![a9d7c1ee-364a-4a5e-b6c6-9de03dd733c2](https://github.com/user-attachments/assets/903451f8-bd3b-4ec4-9c08-a70339abcf40)
 
+POSNETEK DELOVANJA:
+![b060b60d-ac53-4ecb-b455-ff7dc9f28f39](https://github.com/user-attachments/assets/f89e076f-a860-4644-8f29-be16be2c5cc0)
